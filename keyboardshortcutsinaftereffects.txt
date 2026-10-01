@@ -1,0 +1,34 @@
+1. New Composition - Ctrl+N 01:38
+2. Composition Settings - Ctrl+K  1:45
+3. Fullscreen any panel - Place mouse cursor on any panel and press ~  1:56
+4. New Solid Layer - Ctrl+Y 2:24
+5. Solid Settings - Ctrl+Shift+Y  2:28
+6. New Adjustment Layer - Ctrl+Alt+Y 2:35
+7. Set work area Start - B 2:45
+8. Set work area End - N 3:03
+9. Trim Timeline to work area - Ctrl+Shift+X 03:07
+10. Add footage/image to timeline from project window - Ctrl+Alt+/ 3:20
+11. Fit footage width to comp size - Ctrl+Alt+Shift+H 3:55
+12. Fit footage to Comp Size - Ctrl+Alt+F 4:17
+13. Zoom in / out Composition Window - Wheel UP/Down 4:32
+14. Zoom in / out Composition Window - , . 4:41
+15. Zoom in / out Timeline - -= / or Alt Scroll wheel 4:45
+16. Go to Next Keyframe - K 5:00
+17. Go to Previous Keyframe - J 5:09
+18. Go to 1 frame ahead or back - PgUp / PgDn 5:33
+19. Go to 1 frame ahead or back - Ctrl+Right / Ctrl+Left 5:47
+20. Move Layer Order Up or Down - Ctrl+Alt+Up/Down 5:56
+21. Shift Layer on Top - Ctrl+Alt+Shift+UP 6:11
+22. Shift Layer at bottom - Ctrl+Alt+Shift+Down 6:17
+23-27. Layer Properties Position, Scale, Opacity, Rotation, AnchorPoint - P S T R A 6:23
+28. Add other properties - Shift+KEY  6:32
+29. Watch properties with animation - U 6:43
+30. Watch properties with any change from default - UU 6:53
+31. Toggle Hold Keyframe - Ctrl+Alt+H 7:10
+31b. Toggle Hold Keyframe - Ctrl+Alt+Click 7:33
+32. Layer Start or End - [ ] 7:40
+33. Trim Layer on timeline - Alt+[ ] 8:09
+34. Duplicate Layer - Ctrl+D 8:25
+35. Split Layer - Ctrl+Shift+D 8:30
+36. Select all mask points - Alt+Click on any mask point 8:36
+37. Free Transform mask - Ctrl+T 8:55
